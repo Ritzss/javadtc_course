@@ -16,5 +16,6 @@ public class main1 {
         System.out.print("Enter the number of lines: ");
         int n = scanner.nextInt();
         printPattern(n);
+        
     }
 }

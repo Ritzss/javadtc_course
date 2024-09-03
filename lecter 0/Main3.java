@@ -31,6 +31,7 @@ public class Main3 {
         int rows = scanner.nextInt();
         System.out.print("Enter the number of columns: ");
         int cols = scanner.nextInt();
+        
         printPattern(rows, cols);
     }
 }

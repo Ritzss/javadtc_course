@@ -19,5 +19,6 @@ public class Main4 {
         System.out.print("Enter the size of the X pattern: ");
         int n = scanner.nextInt();
         printPattern(n);
+        
     }
 }
